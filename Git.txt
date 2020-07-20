@@ -1,0 +1,12 @@
+
+Visual Studio Code (Windows版) のインストール
+https://qiita.com/psychoroid/items/7d85ae6bade4a67aedb1
+
+Visual Studio Codeで日本語化する方法[Windows]
+https://qiita.com/nanamesincos/items/5c48ff88a4eeef0a8631
+
+mnabegithub19680701
+
+【カンタン解説】Github と Sourcetreeを連携してGitを理解する
+https://qiita.com/shogotgm/items/b154a513ca6812ac0326
+
